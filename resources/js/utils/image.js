@@ -1,8 +1,8 @@
 export const calculateAspectRatioFit = (
   srcWidth,
   srcHeight,
-  maxWidth = 2000,
-  maxHeight = 1000
+  maxWidth = 4000,
+  maxHeight = 2000
 ) => {
   let ratio = 1;
 
